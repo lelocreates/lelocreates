@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on all the fun project!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I believe in cake, caffiene and cats! 
+- ⚡ Fun fact: I believe in cake, caffeine and cats! 
 
 <!---
 lelocreates/lelocreates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
