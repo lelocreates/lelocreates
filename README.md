@@ -5,7 +5,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I believe in cake, caffeine and cats!
 - ⛏️ Current skills: Project Management, Customer Service, Technical Support, Data Analysis, Collaborative Communication, Problem Solving
-- 🥅 Goals: Become a Software developer/ Super Project Manager for Software development projects 
+- 🥅 Goals: Become a Software developer/ Super Project Manager for Software development projects
+- 📧 Reach me: kgaladipmohlabe@gmail.com
 
 
 <!---
